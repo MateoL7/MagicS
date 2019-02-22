@@ -1,0 +1,1 @@
+The objective of the project is to create a magic square with odd dimensions. The magic square consists in having the same result when summing up each row, each column and even each diagonal.
